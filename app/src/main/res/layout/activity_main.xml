@@ -19,6 +19,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:name="de.example.frank.tutorial.TextFragment"
+        android:layout_below="@id/fragment"
         tools:layout="@layout/fragment_text"/>
 
 </RelativeLayout>
