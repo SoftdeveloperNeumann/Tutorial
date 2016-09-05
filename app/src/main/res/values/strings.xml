@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tutorial</string>
+    <string name="erster">Der erste Eintrag</string>
+    <string name="zweiter">Der zweiter Eintrag</string>
+    <string name="dritter">Der dritter Eintrag</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_txt_fragment">Hello blank fragment</string>
+</resources>
